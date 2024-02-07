@@ -1,5 +1,5 @@
 # solar-power
-Analyzes Loomis Chaffee's solar panel field data and cross-reference it with local weather patterns.
+Analyze Loomis Chaffee's solar panel field data and cross-reference it with local weather patterns.
 
 Tutorial for program
 1. Go to the Also Energy website: https://hmi.alsoenergy.com/powerhmi/publicdisplay/a983ccec-acf3-4ff7-8010-439b737665cf/main?arg=NTE1Mjg%3d&lang=en-US
